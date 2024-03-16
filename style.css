@@ -1,0 +1,15 @@
+.titulo_principal{
+    color: rgb(16, 16, 126);
+    font-size: 48px;
+    text-decoration: underline;
+}
+
+.titulo_secundario{
+    color: rgb(123, 283, 121);
+    font-size: 36px;
+    font-style: italic;
+}
+
+.titulo_terciario{
+    color: rgb(179, 0, 0);
+}
